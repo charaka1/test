@@ -1,0 +1,41 @@
+2014-06-04 10:07:05,616 - tool - DEBUG - Logging configured
+2014-06-04 10:07:05,626 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-04 10:07:05,633 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-04 10:07:05,673 - urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 200 984
+2014-06-04 10:07:38,091 - tool - DEBUG - Logging configured
+2014-06-04 10:07:38,101 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-04 10:07:38,106 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-04 10:07:38,119 - urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 200 984
+2014-06-04 10:07:43,488 - tool - DEBUG - Logging configured
+2014-06-04 10:07:43,498 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-04 10:07:43,503 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-04 10:07:43,523 - urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 200 984
+2014-06-09 14:10:59,062 - tool - DEBUG - Logging configured
+2014-06-09 14:10:59,065 - tool - DEBUG - Logging configured
+2014-06-09 14:10:59,124 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,157 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,204 - urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 200 573
+2014-06-09 14:10:59,208 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,208 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,232 - urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 598
+2014-06-09 14:10:59,234 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,234 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,259 - urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 200 1411
+2014-06-09 14:10:59,262 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,263 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,289 - urllib3.connectionpool - DEBUG - "DELETE /experiments HTTP/1.1" 404 233
+2014-06-09 14:10:59,290 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,290 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,325 - urllib3.connectionpool - DEBUG - "DELETE /events HTTP/1.1" 200 2
+2014-06-09 14:10:59,327 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,327 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,328 - urllib3.connectionpool - DEBUG - "GET /experiments HTTP/1.1" 404 233
+2014-06-09 14:10:59,330 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,336 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,336 - urllib3.connectionpool - DEBUG - "POST /experiments HTTP/1.1" 404 233
+2014-06-09 14:10:59,337 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,346 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,346 - urllib3.connectionpool - DEBUG - "GET /experiments HTTP/1.1" 404 233
+2014-06-09 14:10:59,348 - urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-09 14:10:59,356 - urllib3.connectionpool - DEBUG - Setting read timeout to None
+2014-06-09 14:10:59,362 - urllib3.connectionpool - DEBUG - "GET /events HTTP/1.1" 200 862

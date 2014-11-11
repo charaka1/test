@@ -1,0 +1,1565 @@
+2014-06-13 17:28:55,437 - geosmeta.tool - DEBUG - Logging configured
+2014-06-13 17:28:55,438 - geosmeta.tool - DEBUG - Logging configured
+2014-06-13 17:28:55,591 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-13 17:28:55,593 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 404 233
+2014-06-18 11:22:06,231 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 11:22:06,231 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 11:22:06,252 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 11:22:06,279 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 147
+2014-06-18 11:36:06,421 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 11:36:06,421 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 11:36:06,441 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 11:36:06,492 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-18 11:41:49,154 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 11:41:49,154 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 11:41:49,173 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 11:41:49,191 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 158
+2014-06-18 13:05:48,339 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 13:05:48,340 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 13:05:48,360 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 13:05:48,367 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/1 HTTP/1.1" 200 473
+2014-06-18 14:29:30,700 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:29:30,700 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:29:30,718 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:29:30,722 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-18 14:30:06,091 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:30:06,091 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:30:06,110 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:30:06,116 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-18 14:34:19,028 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:34:19,028 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:34:19,050 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:34:19,066 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-18 14:36:00,919 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:36:00,919 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:36:00,938 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:36:00,942 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-18 14:38:15,328 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:38:15,328 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:38:15,346 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:38:15,369 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 162
+2014-06-18 14:38:31,341 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:38:31,341 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:38:31,359 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:38:31,366 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-18 14:39:03,788 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:39:03,788 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:39:03,810 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:39:03,817 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 477
+2014-06-18 14:48:52,089 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:48:52,089 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:48:52,108 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:48:52,127 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-18 14:51:25,526 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:51:25,526 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:51:25,543 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:51:25,561 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-18 14:52:17,306 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:52:17,306 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:52:17,328 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:52:17,335 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 453
+2014-06-18 14:53:35,551 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:53:35,551 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 14:53:35,573 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 14:53:35,591 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 477
+2014-06-18 15:47:42,968 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 15:47:42,968 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 15:47:42,995 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 15:47:43,024 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 1890
+2014-06-18 15:48:41,614 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 15:48:41,614 - geosmeta.tool - DEBUG - Logging configured
+2014-06-18 15:48:41,635 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-18 15:48:41,643 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom3 HTTP/1.1" 200 453
+2014-06-24 11:39:28,793 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:39:28,793 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:39:28,821 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 11:39:28,960 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom3 HTTP/1.1" 200 453
+2014-06-24 11:39:41,634 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:39:41,634 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:39:41,652 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 11:39:41,671 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 1890
+2014-06-24 11:45:33,035 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:45:33,036 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:45:33,054 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 11:45:33,061 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 162
+2014-06-24 11:46:51,235 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:46:51,235 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:46:51,253 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 11:46:51,260 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 11:47:06,076 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:47:06,076 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 11:47:06,094 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 11:47:06,114 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 2238
+2014-06-24 12:02:18,266 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 12:02:18,266 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 12:02:18,284 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 12:02:18,290 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 162
+2014-06-24 12:02:27,919 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 12:02:27,919 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 12:02:27,938 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 12:02:27,945 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 12:02:44,262 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 12:02:44,262 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 12:02:44,280 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 12:02:44,292 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 2586
+2014-06-24 14:38:24,438 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:38:24,438 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:38:24,474 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:38:24,491 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 151
+2014-06-24 14:40:56,352 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:40:56,353 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:40:56,370 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:40:56,394 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 14:42:44,134 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:42:44,134 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:42:44,156 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:42:44,162 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom7 HTTP/1.1" 200 496
+2014-06-24 14:46:26,094 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:46:26,094 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:46:26,127 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:46:26,133 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom7 HTTP/1.1" 404 179
+2014-06-24 14:46:44,607 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:46:44,607 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:46:44,627 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:46:44,634 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 151
+2014-06-24 14:51:33,314 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:51:33,314 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:51:33,332 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:51:33,351 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 14:52:03,684 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:52:03,684 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 14:52:03,704 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 14:52:03,710 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 200 496
+2014-06-24 15:07:36,638 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:07:36,639 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:07:36,671 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:07:36,699 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 15:07:50,118 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:07:50,119 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:07:50,140 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:07:50,149 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 936
+2014-06-24 15:24:19,864 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:24:19,864 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:24:19,894 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:24:19,901 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 15:24:59,926 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:24:59,933 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:24:59,958 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:24:59,965 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 500
+2014-06-24 15:43:15,672 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:43:15,672 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:43:15,701 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:43:15,720 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 15:44:50,732 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:44:50,732 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:44:50,764 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:44:50,783 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 15:45:52,731 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:45:52,731 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:45:52,749 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:45:52,756 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 15:46:25,389 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:46:25,389 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:46:25,420 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:46:25,427 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces2 HTTP/1.1" 200 494
+2014-06-24 15:47:08,611 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:47:08,611 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:47:08,639 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:47:08,664 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 2414
+2014-06-24 15:51:34,025 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:51:34,025 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:51:34,052 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:51:34,070 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-24 15:51:47,131 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:51:47,131 - geosmeta.tool - DEBUG - Logging configured
+2014-06-24 15:51:47,152 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-24 15:51:47,159 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces3 HTTP/1.1" 200 527
+2014-06-25 10:14:48,064 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:14:48,065 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:14:48,086 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-25 10:14:48,170 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-25 10:15:34,564 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:15:34,564 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:15:34,582 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-25 10:15:34,588 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces4 HTTP/1.1" 200 529
+2014-06-25 10:16:18,715 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:16:18,715 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:16:18,737 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-25 10:16:18,749 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 3294
+2014-06-25 10:45:10,987 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:45:10,988 - geosmeta.tool - DEBUG - Logging configured
+2014-06-25 10:45:11,007 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-25 10:45:11,014 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces4 HTTP/1.1" 200 529
+2014-06-26 12:24:01,818 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:24:01,819 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:24:01,846 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:24:01,952 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces4 HTTP/1.1" 200 529
+2014-06-26 12:25:21,717 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:21,718 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:21,735 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:25:21,758 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 228
+2014-06-26 12:25:29,920 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:29,921 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:29,939 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:25:29,955 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 228
+2014-06-26 12:25:36,781 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:36,781 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:36,800 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:25:36,838 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 228
+2014-06-26 12:25:50,244 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:50,244 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:25:50,262 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:25:50,268 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 189
+2014-06-26 12:29:21,995 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:29:21,995 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:29:22,013 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:29:22,022 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-26 12:29:45,952 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:29:45,953 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:29:45,974 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:29:45,981 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom5 HTTP/1.1" 200 496
+2014-06-26 12:32:59,802 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:32:59,803 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:32:59,823 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:32:59,847 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom5 HTTP/1.1" 200 496
+2014-06-26 12:39:21,590 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:39:21,590 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:39:21,614 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:39:21,632 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom5 HTTP/1.1" 200 496
+2014-06-26 12:39:43,550 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:39:43,550 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:39:43,573 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:39:43,577 - requests.packages.urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 401 36
+2014-06-26 12:42:17,563 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:42:17,563 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:42:17,580 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:42:17,584 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-26 12:43:03,648 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:43:03,648 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:43:03,666 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:43:03,677 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-26 12:43:30,023 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:43:30,024 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:43:30,041 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:43:30,045 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-26 12:47:01,400 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:47:01,400 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:47:01,417 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:47:01,428 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-26 12:48:49,800 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:48:49,800 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:48:49,818 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:48:49,835 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-26 12:49:48,481 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:49:48,481 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:49:48,499 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:49:48,511 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-26 12:50:06,570 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:50:06,570 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:50:06,591 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:50:06,601 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces6 HTTP/1.1" 200 495
+2014-06-26 12:50:37,529 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:50:37,529 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:50:37,551 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:50:37,557 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces7 HTTP/1.1" 404 179
+2014-06-26 12:54:34,958 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:54:34,958 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:54:34,978 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:54:34,996 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-26 12:54:52,585 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:54:52,585 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:54:52,608 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:54:52,623 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces8 HTTP/1.1" 200 495
+2014-06-26 12:58:51,937 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:58:51,944 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 12:58:51,977 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 12:58:51,984 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces8 HTTP/1.1" 200 495
+2014-06-26 14:04:46,604 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:04:46,611 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:04:46,648 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 14:04:46,656 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces8 HTTP/1.1" 200 495
+2014-06-26 14:43:04,574 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:43:04,581 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:43:04,614 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 14:43:04,622 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-26 14:44:00,334 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:44:00,334 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:44:00,358 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 14:44:00,364 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom8 HTTP/1.1" 200 496
+2014-06-26 14:46:05,138 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:46:05,138 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 14:46:05,172 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 14:46:05,210 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 4613
+2014-06-26 15:49:47,348 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:49:47,349 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:49:47,374 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 15:49:47,411 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-26 15:52:10,135 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:52:10,135 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:52:10,153 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 15:52:10,164 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-06-26 15:57:58,848 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:57:58,848 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:57:58,866 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 15:57:58,930 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-26 15:58:22,780 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:58:22,780 - geosmeta.tool - DEBUG - Logging configured
+2014-06-26 15:58:22,799 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-26 15:58:22,806 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces1 HTTP/1.1" 200 496
+2014-06-27 11:20:12,726 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:20:12,727 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:20:12,766 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 11:20:12,878 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/aces1 HTTP/1.1" 200 496
+2014-06-27 11:20:19,959 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:20:19,959 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:20:19,982 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 11:20:20,002 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 200 569
+2014-06-27 11:22:49,050 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:22:49,050 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:22:49,080 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 11:22:49,084 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities HTTP/1.1" 401 36
+2014-06-27 11:28:05,875 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:28:05,875 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:28:05,897 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 11:28:05,901 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 401 36
+2014-06-27 11:30:38,270 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:30:38,270 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 11:30:38,292 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 11:30:38,303 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 401 36
+2014-06-27 12:01:13,753 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 12:01:13,753 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 12:01:13,776 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 12:01:13,795 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-27 12:03:35,602 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 12:03:35,602 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 12:03:35,620 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 12:03:35,627 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-06-27 12:04:19,568 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 12:04:19,568 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 12:04:19,590 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 12:04:19,598 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 200 495
+2014-06-27 13:44:38,444 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 13:44:38,445 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 13:44:38,468 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 13:44:38,479 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 401 36
+2014-06-27 13:48:16,035 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 13:48:16,036 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 13:48:16,056 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 13:48:16,084 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-27 14:18:38,698 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:18:38,699 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:18:38,719 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 14:18:38,729 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-27 14:21:22,866 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:21:22,866 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:21:22,889 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 14:21:22,907 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 400 166
+2014-06-27 14:21:34,846 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:21:34,847 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:21:34,870 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 14:21:34,879 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-27 14:47:07,234 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:47:07,235 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:47:07,258 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 14:47:07,267 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-06-27 14:47:39,712 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:47:39,713 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 14:47:39,733 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 14:47:39,743 - requests.packages.urllib3.connectionpool - DEBUG - "GET /accounts HTTP/1.1" 200 1482
+2014-06-27 15:01:01,266 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 15:01:01,266 - geosmeta.tool - DEBUG - Logging configured
+2014-06-27 15:01:01,291 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-06-27 15:01:01,302 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 200
+2014-07-03 09:30:09,578 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 09:30:09,578 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 09:30:09,604 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 09:30:09,741 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 200
+2014-07-03 11:02:03,644 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 11:02:03,644 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 11:02:03,663 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 11:02:03,683 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 12:47:48,814 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 12:47:48,814 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 12:47:48,835 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 12:47:48,843 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 161
+2014-07-03 12:55:18,797 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 12:55:18,797 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 12:55:18,837 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 12:55:18,857 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 15:25:36,128 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 15:25:36,135 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 15:25:36,175 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 15:25:36,192 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 15:45:55,708 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 15:45:55,708 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 15:45:55,727 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 15:45:55,735 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 15:47:54,735 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 15:47:54,735 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 15:47:54,758 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 15:47:54,766 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom4 HTTP/1.1" 200 725
+2014-07-03 16:05:14,596 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:05:14,596 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:05:14,613 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:05:14,622 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 16:05:41,970 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:05:41,970 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:05:41,993 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:05:42,000 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom5 HTTP/1.1" 200 781
+2014-07-03 16:45:23,140 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:45:23,141 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:45:23,178 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:45:23,186 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 163
+2014-07-03 16:45:34,852 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:45:34,852 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:45:34,870 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:45:34,887 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 16:47:36,108 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:47:36,108 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:47:36,146 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:47:36,154 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 163
+2014-07-03 16:47:44,066 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:47:44,066 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:47:44,087 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:47:44,103 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-03 16:54:29,445 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:54:29,445 - geosmeta.tool - DEBUG - Logging configured
+2014-07-03 16:54:29,475 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-03 16:54:29,483 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-11 10:27:54,286 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:27:54,286 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:27:54,331 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 10:27:54,485 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 200 536
+2014-07-11 10:30:15,368 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:30:15,368 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:30:15,403 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 10:30:15,454 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/xtom1 HTTP/1.1" 405 178
+2014-07-11 10:51:53,468 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:51:53,469 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:51:53,524 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 10:51:53,564 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b52a1b7cf6efa02ff67c05 HTTP/1.1" 403 101
+2014-07-11 10:53:34,595 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:53:34,595 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 10:53:34,648 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 10:53:34,655 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 200 536
+2014-07-11 11:00:09,286 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:00:09,286 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:00:09,334 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:00:09,340 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b52a1b7cf6efa02ff67c05 HTTP/1.1" 403 101
+2014-07-11 11:05:37,822 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:05:37,822 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:05:37,871 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:05:37,873 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/xtom1 HTTP/1.1" 405 178
+2014-07-11 11:06:49,599 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:06:49,599 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:06:49,651 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:06:49,655 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b52a1b7cf6efa02ff67c05 HTTP/1.1" 401 36
+2014-07-11 11:13:16,734 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:13:16,734 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:13:16,783 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:13:16,788 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b52a1b7cf6efa02ff67c05 HTTP/1.1" 401 36
+2014-07-11 11:14:09,394 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:14:09,395 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:14:09,448 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:14:09,450 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/xtom1 HTTP/1.1" 405 178
+2014-07-11 11:28:57,007 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:28:57,007 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:28:57,055 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:28:57,060 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b52a1b7cf6efa02ff67c05 HTTP/1.1" 401 36
+2014-07-11 11:32:59,955 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:32:59,955 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:33:00,004 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:33:00,025 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b52a1b7cf6efa02ff67c05 HTTP/1.1" 403 101
+2014-07-11 11:38:37,619 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:38:37,620 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:38:37,674 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:38:37,720 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 163
+2014-07-11 11:38:51,660 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:38:51,660 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:38:51,677 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:38:51,685 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-07-11 11:39:05,959 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:39:05,959 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:39:05,981 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:39:05,988 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 724
+2014-07-11 11:39:33,474 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:39:33,474 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:39:33,493 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:39:33,500 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 403 101
+2014-07-11 11:54:16,477 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:54:16,478 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:54:16,527 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:54:16,535 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 403 101
+2014-07-11 11:54:34,452 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:54:34,452 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:54:34,474 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:54:34,481 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 724
+2014-07-11 11:54:52,568 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:54:52,568 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:54:52,591 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:54:52,598 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 720
+2014-07-11 11:55:16,832 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:55:16,832 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 11:55:16,850 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 11:55:16,862 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 403 101
+2014-07-11 16:06:08,235 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:06:08,235 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:38:22,497 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:38:22,498 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:40:40,668 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:40:40,669 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:40:40,722 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-11 16:40:40,738 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 720
+2014-07-11 16:42:13,295 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:42:13,295 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:43:06,618 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:43:06,619 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:43:49,751 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:43:49,751 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:44:56,050 - geosmeta.tool - DEBUG - Logging configured
+2014-07-11 16:44:56,051 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:40:39,801 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:40:39,802 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:40:39,829 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 10:40:39,918 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 720
+2014-07-14 10:41:14,675 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:41:14,675 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:43:08,429 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:43:08,430 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:43:28,562 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:43:28,562 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:46:08,798 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:46:08,798 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:49:51,857 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:49:51,857 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:53:51,546 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:53:51,546 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:57:25,289 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:57:25,290 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:57:43,652 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:57:43,652 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:58:18,160 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:58:18,160 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:59:41,352 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:59:41,352 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 10:59:41,374 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 10:59:41,379 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 401 36
+2014-07-14 11:03:48,325 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:03:48,325 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:04:13,321 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:04:13,321 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:04:13,339 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 11:04:13,344 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 401 36
+2014-07-14 11:05:24,284 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:05:24,284 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:07:54,809 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:07:54,809 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:08:13,599 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:08:13,599 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:09:41,595 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 11:09:41,596 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:21:57,101 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:21:57,102 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:21:57,127 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:21:57,139 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 401 36
+2014-07-14 14:22:51,859 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:22:51,860 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:25:29,791 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:25:29,791 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:25:29,816 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:25:29,821 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 401 36
+2014-07-14 14:35:19,357 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:35:19,357 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:35:19,380 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:35:19,422 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 301
+2014-07-14 14:38:26,092 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:38:26,092 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:38:26,114 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:38:26,122 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 412 167
+2014-07-14 14:46:03,562 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:46:03,562 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:46:03,586 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:46:03,592 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 403 101
+2014-07-14 14:47:37,670 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:47:37,670 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:47:37,691 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:47:37,697 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 412 167
+2014-07-14 14:48:34,653 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:48:34,654 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:48:34,676 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:48:34,692 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 721
+2014-07-14 14:49:13,086 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:49:13,086 - geosmeta.tool - DEBUG - Logging configured
+2014-07-14 14:49:13,104 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-14 14:49:13,112 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 301
+2014-07-15 09:55:59,882 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 09:55:59,883 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 09:55:59,908 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 09:55:59,974 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 715
+2014-07-15 10:00:10,959 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:00:10,959 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:00:10,978 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:00:10,985 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 715
+2014-07-15 10:00:59,076 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:00:59,076 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:00:59,094 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:00:59,101 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 715
+2014-07-15 10:04:23,419 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:04:23,419 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:04:23,437 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:04:23,443 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 715
+2014-07-15 10:11:26,877 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:11:26,877 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:11:26,895 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:11:26,902 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 715
+2014-07-15 10:12:30,239 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:12:30,239 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:12:30,257 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:12:30,264 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 715
+2014-07-15 10:12:30,266 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:12:30,266 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:12:30,267 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:12:30,285 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53b544a67cf6efa02ff67c0a HTTP/1.1" 200 301
+2014-07-15 10:13:40,644 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:13:40,645 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:13:40,663 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:13:40,670 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 724
+2014-07-15 10:13:40,672 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:13:40,672 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:13:40,673 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:13:40,689 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 200 301
+2014-07-15 10:29:40,735 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:29:40,736 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:29:40,753 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:29:40,760 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 719
+2014-07-15 10:29:40,761 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:29:40,762 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:29:40,763 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:29:40,772 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 200 301
+2014-07-15 10:31:01,926 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:31:01,926 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:31:01,943 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:31:01,952 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 725
+2014-07-15 10:31:01,954 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:31:01,954 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:31:01,955 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:31:01,963 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 200 301
+2014-07-15 10:32:27,177 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:32:27,177 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:32:27,194 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:32:27,200 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 720
+2014-07-15 10:32:27,202 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:32:27,202 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 10:32:27,203 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 10:32:27,226 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 500 548
+2014-07-15 11:11:37,686 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:11:37,686 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:11:37,708 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 11:11:37,722 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 720
+2014-07-15 11:11:37,724 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:11:37,724 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:11:37,725 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 11:11:37,732 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 200 301
+2014-07-15 11:14:04,340 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:14:04,341 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:14:04,358 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 11:14:04,366 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom9 HTTP/1.1" 200 719
+2014-07-15 11:14:04,367 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:14:04,367 - geosmeta.tool - DEBUG - Logging configured
+2014-07-15 11:14:04,369 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-07-15 11:14:04,376 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53bfbebb7cf6efa02ff67c36 HTTP/1.1" 200 301
+2014-07-17 15:04:45,646 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:04:45,647 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:04:46,113 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 15:25:09,670 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:25:09,670 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:25:09,692 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 15:25:09,721 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 404 179
+2014-07-17 15:27:29,670 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:27:29,670 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:27:29,688 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 15:27:29,696 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 404 179
+2014-07-17 15:46:22,417 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:46:22,417 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:46:22,435 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 15:46:22,856 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 320
+2014-07-17 15:55:35,621 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:55:35,621 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 15:55:35,639 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 18:50:47,081 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 18:50:47,081 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 18:50:47,106 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 18:50:47,305 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 200 782
+2014-07-17 18:51:02,162 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 18:51:02,162 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 18:51:02,183 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 18:51:02,299 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom1 HTTP/1.1" 200 782
+2014-07-17 18:51:17,105 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 18:51:17,105 - geosmeta.tool - DEBUG - Logging configured
+2014-07-17 18:51:17,126 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-07-17 18:51:17,242 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xtom2 HTTP/1.1" 200 777
+2014-08-13 10:58:52,818 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 10:58:52,821 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 10:58:52,873 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): cityflow-velox.epcc.ed.ac.uk
+2014-08-13 10:58:53,739 - requests.packages.urllib3.connectionpool - DEBUG - "GET /projects HTTP/1.1" 200 3321
+2014-08-13 11:06:54,752 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:06:54,758 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:06:54,782 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-13 11:06:54,792 - requests.packages.urllib3.connectionpool - DEBUG - "GET /projects HTTP/1.1" 200 2378
+2014-08-13 11:09:37,511 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:09:37,511 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:09:37,532 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-13 11:09:37,543 - requests.packages.urllib3.connectionpool - DEBUG - "GET /research_groups HTTP/1.1" 200 2728
+2014-08-13 11:17:28,570 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:17:28,570 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:17:28,588 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-13 11:17:28,598 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-13 11:18:47,484 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:18:47,484 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:18:47,506 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-13 11:18:47,516 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-13 11:18:57,307 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:18:57,308 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:18:57,329 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-13 11:18:57,336 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%231%22%7D HTTP/1.1" 200 724
+2014-08-13 11:19:53,587 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:19:53,587 - geosmeta.tool - DEBUG - Logging configured
+2014-08-13 11:19:53,609 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-13 11:19:53,614 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%232%22%7D HTTP/1.1" 401 36
+2014-08-15 16:49:15,076 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 16:49:15,078 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 16:49:15,156 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 16:49:15,370 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1224
+2014-08-15 16:50:51,925 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 16:50:51,925 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 16:50:51,950 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 16:50:51,983 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1224
+2014-08-15 17:00:08,840 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:00:08,840 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:00:08,869 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:00:08,905 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A%22Project+Name+%230%22%7D%2C%7B%22%22title%22%3A%22xt1%22%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-15 17:03:02,390 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:03:02,390 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:03:02,418 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:03:02,435 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A%22Project+Name+%230%22%7D%2C%7B%22%22title%22%3A%22xt1%22%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-15 17:04:02,250 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:04:02,250 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:04:02,278 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:04:02,294 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A%22Project+Name+%230%22%7D%2C%7B%22title%3Axt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-15 17:04:35,160 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:04:35,161 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:04:35,182 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:04:35,195 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A%22Project+Name+%230%22%7D%2C%7B%22%22title%22%3A%22xt1%22%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-15 17:07:03,414 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:07:03,415 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:07:03,442 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:07:03,459 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%22title%22%3A%22xt1%22 HTTP/1.1" 500 None
+2014-08-15 17:08:28,207 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:08:28,208 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:08:28,234 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:08:28,249 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%22title%22%3A%22xt1%22 HTTP/1.1" 500 None
+2014-08-15 17:09:59,483 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:09:59,483 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:09:59,509 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:09:59,525 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=title%3Axt1 HTTP/1.1" 500 None
+2014-08-15 17:10:30,713 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:10:30,713 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:10:30,736 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:10:30,751 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%22title%22%3A%22xt1%22 HTTP/1.1" 500 None
+2014-08-15 17:18:58,846 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:18:58,847 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:18:58,876 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:18:58,882 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?%22title%22:%22xt1%22 HTTP/1.1" 401 36
+2014-08-15 17:20:10,710 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:20:10,710 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:20:10,732 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:20:10,748 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%22title%22:%22xt1%22 HTTP/1.1" 500 None
+2014-08-15 17:23:40,639 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:23:40,639 - geosmeta.tool - DEBUG - Logging configured
+2014-08-15 17:23:40,657 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-15 17:23:40,667 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22title%22:%22xt1%22%7D HTTP/1.1" 500 None
+2014-08-16 05:08:23,145 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:08:23,145 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:08:23,182 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:08:23,331 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-16 05:15:57,200 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:15:57,201 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:15:57,221 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:15:57,264 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1224
+2014-08-16 05:34:31,928 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:34:31,931 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:34:31,953 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:34:31,978 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=?where=%7B%22title%22:%22xt1%22%7D HTTP/1.1" 500 None
+2014-08-16 05:34:59,291 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:34:59,291 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:34:59,313 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:34:59,326 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22title%22:%22xt1%22%7D HTTP/1.1" 500 None
+2014-08-16 05:37:56,212 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:37:56,212 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:37:56,233 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:37:56,243 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22title%22:%22xt1%22%7D HTTP/1.1" 500 None
+2014-08-16 05:38:20,948 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:38:20,948 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:38:20,971 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:38:20,982 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22title%22:%22xt1%22%7D HTTP/1.1" 500 None
+2014-08-16 05:59:43,584 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:59:43,584 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 05:59:43,605 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 05:59:43,616 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B$and:%20[%7Bproject:%20%22Project%20Name%20 HTTP/1.1" 500 None
+2014-08-16 06:19:00,914 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:19:00,914 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:19:00,936 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:19:00,952 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%24and%3A%5B%7Bproject%3A%22Project+Name+%230%22%7D%2C%7Btitle%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 06:19:55,406 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:19:55,416 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:19:55,436 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:19:55,458 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%24and%3A%5B%7Bproject%3A%22Project+Name+%230%22%7D%2C%7Btitle%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 06:22:06,318 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:22:06,318 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:22:06,340 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:22:06,352 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%24and%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7Btitle%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 06:23:27,404 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:23:27,404 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:23:27,425 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:23:27,437 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%24and%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 06:24:17,254 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:24:17,255 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:24:17,276 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:24:17,287 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 06:25:27,727 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:25:27,728 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:25:27,749 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:25:27,760 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%24%22and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 06:26:38,043 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:26:38,044 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 06:26:38,063 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 06:26:38,083 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 07:05:10,147 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:05:10,148 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:05:10,176 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:05:10,189 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-16 07:07:22,105 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:07:22,106 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:07:22,129 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:07:22,133 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B$and:%20[%7Bproject:%20%22Project%20Name%20 HTTP/1.1" 401 36
+2014-08-16 07:11:35,648 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:11:35,648 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:11:35,671 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:11:35,699 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B$and:%20[%7Bproject:%20%22Project%20Name%20 HTTP/1.1" 500 None
+2014-08-16 07:15:26,170 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:15:26,170 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:15:26,193 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:15:26,201 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7Btitle%3A%22xt1%22%7D%5D%7D HTTP/1.1" 400 88
+2014-08-16 07:16:09,693 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:16:09,693 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:16:09,714 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:16:09,732 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-16 07:36:31,738 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:36:31,739 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:36:31,767 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:36:31,788 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-16 07:38:55,641 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:38:55,641 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:38:55,665 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:38:55,674 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-16 07:44:33,690 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:44:33,694 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:44:33,716 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:44:33,736 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22Activity+Name+%232%22%7D%5D%7D HTTP/1.1" 200 629
+2014-08-16 07:48:21,193 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:48:21,193 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:48:21,213 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:48:21,221 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22script_info%22%3A%22script_info%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-16 07:49:16,507 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:49:16,507 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:49:16,529 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:49:16,556 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%5C%22script_info%5C%22%3A%5C%22script_info%5C%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-16 07:49:42,131 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:49:42,131 - geosmeta.tool - DEBUG - Logging configured
+2014-08-16 07:49:42,153 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-16 07:49:42,161 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22script_info%22%3A%22script_info%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 10:30:47,101 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 10:30:47,102 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 10:30:47,133 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 10:30:47,237 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22script_info%22%3A%22script_info%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 10:35:12,379 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 10:35:12,380 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 10:35:12,404 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 10:35:12,426 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 200 629
+2014-08-18 10:35:35,613 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 10:35:35,613 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 10:35:35,635 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 10:35:35,650 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%231%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 11:26:39,959 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:26:39,963 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:26:40,016 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:26:40,037 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:44:49,642 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:44:49,642 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:44:49,669 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:44:49,687 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:46:07,401 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:46:07,402 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:46:07,422 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:46:07,440 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:47:04,297 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:47:04,297 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:47:04,317 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:47:04,335 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:52:32,503 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:52:32,512 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:52:32,531 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:52:32,550 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:54:36,389 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:54:36,390 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:54:36,419 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:54:36,438 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:55:38,254 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:55:38,254 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:55:38,273 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:55:38,292 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:58:19,989 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:58:19,989 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:58:20,010 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:58:20,028 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 11:58:57,604 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:58:57,604 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 11:58:57,623 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 11:58:57,640 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:00:55,411 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:00:55,412 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:00:55,430 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:00:55,449 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:02:36,196 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:02:36,196 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:02:36,218 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:02:36,236 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:03:27,763 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:03:27,763 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:03:27,781 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:03:27,799 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:05:27,074 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:05:27,074 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:05:27,094 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:05:27,112 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:07:12,762 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:07:12,762 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:07:12,786 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:07:12,804 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:08:05,993 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:08:05,993 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:08:06,013 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:08:06,031 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:09:11,583 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:09:11,583 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:09:11,605 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:09:11,623 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:25:07,977 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:25:07,989 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:25:08,043 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:25:08,063 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:26:18,322 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:26:18,322 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:26:18,346 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:26:18,365 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:27:41,081 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:27:41,081 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:27:41,103 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:27:41,113 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:36:22,950 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:36:22,951 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:36:22,971 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:36:22,989 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:38:06,301 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:38:06,301 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:38:06,323 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:38:06,340 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:38:50,413 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:38:50,413 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:38:50,431 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:38:50,449 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:40:01,253 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:40:01,253 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:40:01,274 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:40:01,292 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:41:14,060 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:41:14,060 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:41:14,082 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:41:14,101 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:42:04,876 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:42:04,876 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:42:04,898 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:42:04,916 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:42:23,108 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:42:23,108 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:42:23,129 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:42:23,146 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:45:39,650 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:45:39,651 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:45:39,673 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:45:39,693 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:47:06,802 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:47:06,802 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:47:06,824 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:47:06,842 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-18 12:48:42,529 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:48:42,539 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:48:42,561 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:48:42,600 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22comment%22%3A%22Comment+%230%22%7D%5D%7D HTTP/1.1" 200 629
+2014-08-18 12:49:28,161 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:49:28,161 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:49:28,184 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:49:28,192 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%233%22%7D%2C%7B%22comment%22%3A%22Comment+%233%22%7D%5D%7D HTTP/1.1" 200 629
+2014-08-18 12:50:56,256 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:50:56,256 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:50:56,279 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:50:56,288 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%234%22%7D%2C%7B%22comment%22%3A%22Comment+%234%22%7D%5D%7D HTTP/1.1" 200 629
+2014-08-18 12:51:12,184 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:51:12,184 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:51:12,205 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:51:12,214 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%235%22%7D%2C%7B%22comment%22%3A%22Comment+%235%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 12:53:18,055 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:53:18,056 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:53:18,077 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:53:18,092 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%235%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 12:53:37,575 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:53:37,575 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:53:37,596 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:53:37,606 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 12:53:57,663 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:53:57,663 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:53:57,685 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:53:57,693 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%231%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 12:54:09,247 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:54:09,247 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:54:09,269 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:54:09,277 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-18 12:54:15,983 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:54:15,983 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:54:16,005 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:54:16,014 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 12:57:04,070 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:57:04,070 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:57:04,092 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:57:04,112 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 12:57:21,238 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:57:21,238 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:57:21,260 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:57:21,291 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 12:58:16,157 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:58:16,158 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 12:58:16,186 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 12:58:16,204 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 13:01:17,274 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:01:17,274 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:01:17,292 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 13:01:17,297 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 401 36
+2014-08-18 13:05:46,940 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:05:46,946 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:05:46,972 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 13:05:46,989 - requests.packages.urllib3.connectionpool - DEBUG - "POST /accounts HTTP/1.1" 201 297
+2014-08-18 13:06:59,851 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:06:59,851 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:06:59,882 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 13:06:59,893 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 13:07:28,826 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:07:28,826 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:07:28,854 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 13:07:28,864 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 13:10:50,494 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:10:50,494 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:10:50,514 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 13:10:50,519 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 401 36
+2014-08-18 13:15:21,827 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:15:21,828 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 13:15:21,849 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 13:15:21,885 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-18 15:34:07,258 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:34:07,270 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:34:07,331 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:34:07,355 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt2?where=%7B%22project%22%3A+%22Project+Name+%232%22%7D HTTP/1.1" 500 None
+2014-08-18 15:35:29,121 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:35:29,121 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:35:29,143 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:35:29,161 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt2?where=%7B%22project%22%3A+%22Project+Name+%232%22%7D HTTP/1.1" 500 None
+2014-08-18 15:36:12,592 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:36:12,592 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:36:12,615 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:36:12,625 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 500 None
+2014-08-18 15:39:11,520 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:39:11,521 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:39:11,550 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:39:11,569 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 500 None
+2014-08-18 15:41:02,431 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:41:02,441 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:41:02,462 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:41:02,481 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 500 None
+2014-08-18 15:45:10,829 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:45:10,829 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:45:10,852 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:46:34,101 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:46:34,101 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:46:34,123 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:46:34,141 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 500 None
+2014-08-18 15:52:57,962 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:52:57,963 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:52:57,987 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:52:58,016 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-18 15:55:39,825 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:55:39,825 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:55:39,848 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:55:39,857 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-18 15:56:03,169 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:56:03,169 - geosmeta.tool - DEBUG - Logging configured
+2014-08-18 15:56:03,191 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-18 15:56:03,200 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 200 801
+2014-08-19 06:46:54,200 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 06:46:54,200 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 06:46:54,241 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 06:46:54,346 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 200 801
+2014-08-19 07:01:08,836 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:01:08,847 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:01:08,867 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 07:01:08,891 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-19 07:04:31,121 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:04:31,121 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:04:31,142 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 07:04:31,171 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 200 801
+2014-08-19 07:06:36,788 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:06:36,788 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:06:36,809 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 07:06:51,676 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:06:51,676 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:06:51,697 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 07:06:51,714 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-19 07:13:08,256 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:13:08,256 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 07:13:08,279 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 07:13:08,299 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 200 801
+2014-08-19 13:33:31,686 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:33:31,691 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:33:31,751 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:33:31,813 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 200 801
+2014-08-19 13:37:09,547 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:37:09,547 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:37:09,571 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:37:09,599 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1224
+2014-08-19 13:42:21,145 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:42:21,161 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:42:21,208 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:42:21,236 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1224
+2014-08-19 13:45:09,800 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:45:09,800 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:45:09,823 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:45:09,845 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1224
+2014-08-19 13:46:51,072 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:46:51,073 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:46:51,092 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:46:51,113 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-19 13:53:38,677 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:53:38,678 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:53:38,705 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:53:38,728 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-19 13:54:53,484 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:54:53,485 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:54:53,509 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:54:53,528 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 500 None
+2014-08-19 13:59:37,316 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:59:37,317 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 13:59:37,341 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 13:59:37,359 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22title%22%3A%22xt2%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-19 14:01:03,155 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:01:03,155 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:01:03,176 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:01:03,196 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%231%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-19 14:01:20,243 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:01:20,243 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:01:20,263 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:01:20,274 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22title%22%3A%22xt1%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-19 14:04:44,016 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:04:44,016 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:04:44,036 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:04:44,052 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-19 14:05:18,465 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:05:18,465 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:05:18,484 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:05:18,491 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt3?where=%7B%22project%22%3A+%22Project+Name+%231%22%7D HTTP/1.1" 200 728
+2014-08-19 14:08:38,968 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:08:38,968 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:08:38,994 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:08:39,017 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%231%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 801
+2014-08-19 14:09:01,160 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:09:01,160 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:09:01,182 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:09:01,192 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 797
+2014-08-19 14:11:23,563 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:11:23,563 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:11:23,587 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:11:23,606 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-19 14:11:33,119 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:11:33,119 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:11:33,141 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:11:33,162 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1452
+2014-08-19 14:12:08,391 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:12:08,398 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:12:08,420 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:12:08,426 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-19 14:16:37,876 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:16:37,876 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:16:37,905 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:16:37,919 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-19 14:16:49,885 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:16:49,892 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:16:49,914 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:16:49,919 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-19 14:17:03,100 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:17:03,107 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:17:03,127 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:17:03,143 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1452
+2014-08-19 14:30:29,974 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:30:29,977 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:30:30,003 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:30:30,016 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-19 14:30:38,623 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:30:38,623 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 14:30:38,641 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 14:30:38,663 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1452
+2014-08-19 15:02:33,986 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:02:33,986 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:02:34,009 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 15:02:34,035 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-19 15:03:21,899 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:03:21,899 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:03:21,917 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 15:03:21,927 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-08-19 15:55:26,221 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:55:26,226 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:55:26,280 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 15:55:26,302 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-19 15:55:37,486 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:55:37,487 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:55:37,513 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 15:55:37,522 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-08-19 15:59:02,420 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:59:02,420 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:59:02,445 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 15:59:02,466 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-08-19 15:59:13,261 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:59:13,261 - geosmeta.tool - DEBUG - Logging configured
+2014-08-19 15:59:13,279 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-19 15:59:13,296 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-20 15:13:21,053 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:13:21,057 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:13:21,129 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:13:21,279 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%232%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 401 36
+2014-08-20 15:13:28,772 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:13:28,779 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:13:28,800 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:13:28,846 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-20 15:24:28,238 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:24:28,239 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:24:28,265 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:24:28,275 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-20 15:24:37,744 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:24:37,744 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:24:37,770 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:24:37,779 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-08-20 15:27:32,357 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:27:32,358 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:27:32,378 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:27:32,387 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-08-20 15:32:15,371 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:32:15,372 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:32:15,399 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:32:15,420 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-20 15:34:27,362 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:34:27,362 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:34:27,385 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:34:27,395 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-20 15:38:26,114 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:38:26,115 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:38:26,139 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:38:26,149 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 151
+2014-08-20 15:39:30,246 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:39:30,246 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:39:30,263 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:39:30,272 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-20 15:40:23,345 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:40:23,345 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:40:23,363 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:40:23,372 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-20 15:40:32,809 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:40:32,809 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:40:32,835 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:40:32,846 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1397
+2014-08-20 15:40:58,675 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:40:58,675 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:40:58,693 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:40:58,704 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-20 15:41:08,313 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:41:08,313 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:41:08,331 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:41:08,349 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1397
+2014-08-20 15:41:19,697 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:41:19,697 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:41:19,716 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:41:19,725 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22ERROR%22%7D%5D%7D HTTP/1.1" 200 800
+2014-08-20 15:43:03,807 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:43:03,807 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:43:03,832 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:43:03,841 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/fw1?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 729
+2014-08-20 15:43:25,608 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:43:25,608 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:43:25,630 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:43:25,641 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 2422
+2014-08-20 15:48:13,365 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:48:13,366 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:48:13,392 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:48:13,404 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 2422
+2014-08-20 15:48:26,190 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:48:26,190 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:48:26,218 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:48:26,235 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22ERROR%22%7D%5D%7D HTTP/1.1" 200 800
+2014-08-20 15:50:32,900 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:50:32,901 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:50:32,927 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:50:32,937 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22ERROR%22%7D%5D%7D HTTP/1.1" 200 800
+2014-08-20 15:51:02,350 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:51:02,350 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:51:02,368 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:51:02,379 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22ERROR%22%7D%5D%7D HTTP/1.1" 200 800
+2014-08-20 15:51:46,125 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:51:46,125 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:51:46,143 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:51:46,153 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22ERROR%22%7D%5D%7D HTTP/1.1" 200 800
+2014-08-20 15:52:02,101 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:52:02,101 - geosmeta.tool - DEBUG - Logging configured
+2014-08-20 15:52:02,123 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-20 15:52:02,133 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1397
+2014-08-21 11:14:55,652 - geosmeta.tool - DEBUG - Logging configured
+2014-08-21 11:14:55,657 - geosmeta.tool - DEBUG - Logging configured
+2014-08-21 11:14:55,720 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-21 11:14:55,848 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1397
+2014-08-21 11:15:21,061 - geosmeta.tool - DEBUG - Logging configured
+2014-08-21 11:15:21,061 - geosmeta.tool - DEBUG - Logging configured
+2014-08-21 11:15:21,079 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-21 11:15:21,089 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22ERROR%22%7D%5D%7D HTTP/1.1" 200 800
+2014-08-21 11:15:32,309 - geosmeta.tool - DEBUG - Logging configured
+2014-08-21 11:15:32,309 - geosmeta.tool - DEBUG - Logging configured
+2014-08-21 11:15:32,329 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-21 11:15:32,341 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 2422
+2014-08-22 09:11:31,772 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 09:11:31,778 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 09:11:31,836 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:24:08,114 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:24:08,119 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:24:08,172 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:24:08,229 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-08-22 11:25:25,071 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:25:25,071 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:25:25,090 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:25:25,098 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 161
+2014-08-22 11:25:45,883 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:25:45,883 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:25:45,901 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:25:45,910 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-22 11:26:05,537 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:26:05,537 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:26:05,559 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:26:05,566 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:27:46,118 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:27:46,118 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:27:46,137 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:27:46,150 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:27:46,151 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:27:46,151 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:27:46,153 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:27:46,168 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 500 None
+2014-08-22 11:31:26,280 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:31:26,281 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:31:26,307 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:31:26,334 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:31:26,336 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:31:26,336 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:31:26,337 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:31:26,352 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 500 None
+2014-08-22 11:33:44,269 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:33:44,270 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:33:44,294 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:33:44,312 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:33:44,314 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:33:44,314 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:33:44,315 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:33:44,327 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 500 None
+2014-08-22 11:37:13,186 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:37:13,187 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:37:13,210 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:37:13,229 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:37:13,231 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:37:13,231 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:37:13,232 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:37:13,236 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 401 36
+2014-08-22 11:40:38,867 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:40:38,868 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:40:38,893 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:40:38,912 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:40:38,914 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:40:38,914 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:40:38,916 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:40:38,919 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 401 36
+2014-08-22 11:41:43,898 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:41:43,899 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:41:43,921 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:41:43,941 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:41:43,943 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:41:43,943 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:41:43,945 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:41:43,970 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 11:43:07,370 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:43:07,371 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:43:07,396 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:43:07,413 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 727
+2014-08-22 11:48:01,735 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:48:01,735 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:48:01,759 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:48:01,779 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 727
+2014-08-22 11:48:01,781 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:48:01,781 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:48:01,783 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:48:01,793 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 11:49:05,353 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:49:05,354 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:49:05,372 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:49:05,379 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:51:25,323 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:51:25,323 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:51:25,345 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:51:25,353 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:51:25,355 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:51:25,355 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:51:25,356 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:51:25,363 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 11:56:22,433 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:56:22,434 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:56:22,460 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:56:22,469 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 725
+2014-08-22 11:56:22,470 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:56:22,470 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:56:22,472 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:56:22,479 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 11:58:25,020 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:25,021 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:25,044 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:58:25,067 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 11:58:25,069 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:25,069 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:25,071 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:58:25,078 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 11:58:49,756 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:49,756 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:49,775 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:58:49,783 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 725
+2014-08-22 11:58:56,480 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:56,480 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:56,497 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:58:56,505 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 725
+2014-08-22 11:58:56,506 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:56,506 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 11:58:56,508 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 11:58:56,515 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 12:00:16,026 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:00:16,026 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:00:16,046 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:00:16,065 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 12:00:16,066 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:00:16,067 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:00:16,068 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:00:16,072 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 401 36
+2014-08-22 12:00:41,144 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:00:41,144 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:00:41,166 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:00:41,174 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 12:01:14,671 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:14,671 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:14,698 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:01:14,718 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 12:01:22,187 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:22,188 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:22,206 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:01:22,213 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 12:01:22,215 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:22,215 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:22,217 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:01:22,224 - requests.packages.urllib3.connectionpool - DEBUG - "PATCH /activities/53f71aa97cf6efba8b0b4a31 HTTP/1.1" 200 301
+2014-08-22 12:01:37,863 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:37,864 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:01:37,885 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:01:37,893 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 725
+2014-08-22 12:02:07,078 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:02:07,078 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:02:07,098 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:02:07,117 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1225
+2014-08-22 12:02:33,046 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:02:33,046 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:02:33,066 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:02:33,070 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/Activity%20Name%20?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 404 179
+2014-08-22 12:03:57,628 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:03:57,628 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:03:57,654 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:03:57,661 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt4?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 725
+2014-08-22 12:04:27,038 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:04:27,038 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:04:27,057 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:04:27,060 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/Activity%20Name%20?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 404 179
+2014-08-22 12:05:57,654 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:05:57,654 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:05:57,672 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:05:57,680 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 400 161
+2014-08-22 12:06:08,920 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:06:08,920 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:06:08,937 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:06:08,955 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-08-22 12:06:40,390 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:06:40,390 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:06:40,413 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:06:40,422 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities/xt6?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 724
+2014-08-22 12:06:50,444 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:06:50,447 - geosmeta.tool - DEBUG - Logging configured
+2014-08-22 12:06:50,467 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-08-22 12:06:50,481 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 1820
+2014-09-02 11:38:22,886 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:38:22,893 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:38:23,021 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:38:23,138 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22project%22%3A+%22Project+Name+%230%22%7D HTTP/1.1" 200 629
+2014-09-02 11:40:03,947 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:40:03,948 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:40:03,965 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:40:03,974 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-09-02 11:40:59,147 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:40:59,147 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:40:59,164 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:40:59,173 - requests.packages.urllib3.connectionpool - DEBUG - "POST /activities HTTP/1.1" 201 301
+2014-09-02 11:48:34,274 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:48:34,274 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:48:34,296 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:48:34,307 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1396
+2014-09-02 11:49:07,090 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:49:07,090 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:49:07,111 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:49:07,134 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7Bstatus%3A%22OK%22%7D%5D%7D HTTP/1.1" 500 None
+2014-09-02 11:49:32,305 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:49:32,305 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:49:32,326 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:49:32,337 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22status%22%3A%22OK%22%7D%5D%7D HTTP/1.1" 200 1396
+2014-09-02 11:52:59,520 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:52:59,520 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:52:59,543 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:52:59,555 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22%24and%3A%22+%5B%7B%22status%22%3A%22OK%22%7D%2C%7B%22source%22%3A%22experiment%22%7D%5D%7D%5D%7D HTTP/1.1" 500 None
+2014-09-02 11:53:49,536 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:53:49,536 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:53:49,559 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:53:49,569 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22%24and%22%3A+%5B%7B%22status%22%3A%22OK%22%7D%2C%7B%22source%22%3A%22experiment%22%7D%5D%7D%5D%7D HTTP/1.1" 200 797
+2014-09-02 11:54:13,808 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:54:13,808 - geosmeta.tool - DEBUG - Logging configured
+2014-09-02 11:54:13,830 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): localhost
+2014-09-02 11:54:13,841 - requests.packages.urllib3.connectionpool - DEBUG - "GET /activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22Project+Name+%230%22%7D%2C%7B%22%24and%22%3A+%5B%7B%22status%22%3A%22OK%22%7D%2C%7B%22source%22%3A%22fieldwork%22%7D%5D%7D%5D%7D HTTP/1.1" 200 801

@@ -1,0 +1,7 @@
+{
+  "experiment_info": "exp4 info",
+  "script_info": "script info",
+  "parameters": ["x4", "y4", "z4"],
+  "root_path": "/projects/xtom4/",
+  "output_files":["file14","file24"]
+}

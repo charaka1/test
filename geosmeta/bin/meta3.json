@@ -1,0 +1,10 @@
+{
+  "root_path": "/projects/xtom5/",
+  "output_files":["file15","file25"],
+  "other_links": "important links",
+  "experiment": {
+                "experiment_info": "exp5 info",
+                "script_info": "script info",
+                "parameters": ["x5", "y5", "z5"]
+              }
+}

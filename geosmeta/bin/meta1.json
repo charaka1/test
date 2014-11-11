@@ -1,0 +1,7 @@
+{
+  "experiment_info": "exp1 info",
+  "script_info": "script info",
+  "parameters": ["x", "y", "z"],
+  "root_path": "/projects/xtom1/",
+  "output_files":["file1","file2"]
+}
